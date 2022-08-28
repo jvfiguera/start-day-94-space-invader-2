@@ -1,6 +1,7 @@
 import random
 import turtle
 from turtle import Turtle, Screen
+import _tkinter
 from time import sleep
 
 # CONSTANTS
